@@ -1,0 +1,11 @@
+{
+    "title": "historian.yababay.me",
+    "subtitle": "Авторские ресурсы по истории",
+    "description": "Каталог сайтов на историчесую тематику",
+    "keywords": "каталог, история, статьи, эссе",
+    "author": "Михаил Беляков",
+    "license": "CC_BY-NC_4.0",
+    "url": "http://historian.yababay.me",
+    "brand": "Сайты по истории",
+    "bootstrap": "remote"
+}
